@@ -1,8 +1,8 @@
 # neuro-amy-vue
 
-Proyecto diseñado como página profesional médico.
+• MEVN Stack (MongoDb, ExpressJs, VueJs, NodeJS
 
-![Drag Racing](./src/assets/neuro-amy)
+![Drag Racing](./src/assets/neuro-amy.png)
 ## Project setup
 ```
 npm install
